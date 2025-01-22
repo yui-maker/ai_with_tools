@@ -1,6 +1,6 @@
-# Generate teaching material with webscraping and open_ai
+# Use AI with your own logic
 
-I wanted to create some teaching materials based on information provided on a webpage. As the information was on the page across multiple links, I thought this will make it a good project for using AI. As for example I am using `https://www.learnpython.org/` and using AI to create teaching material for teaching Python to kids. I have also uploaded the sampel markdown file that was created during my experiments. 
+some example codes about how to use AI with logic based on your own code.
 
 ## Steps to Get Started
 
